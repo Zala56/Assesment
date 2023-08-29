@@ -100,7 +100,7 @@ class Spacecraft {
           this.rotateDown();
           break;
         default:
-          // Handle invalid command
+          // unexpected case  
           break;
       }
     }
